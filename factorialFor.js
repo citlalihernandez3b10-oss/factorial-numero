@@ -12,3 +12,4 @@ console.log(factorial(10)); // salida: 120
 
 
 .
+console.log(factorial(5)); // salida: 120
