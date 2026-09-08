@@ -21,5 +21,3 @@ function mostrarSerieFactorial(n) {
     }
 }
 
-// ejemplo de uso
-mostrarSerieFactorial(10);
